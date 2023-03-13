@@ -1,0 +1,1 @@
+<form><view class="phone"><text> 绑定手机</text><input placeholder="请输入手机号" type="text" class="tel" bindinput="{{a}}" maxlength="11" value="{{b}}"></input></view><view class="fix"><text> 输入验证码</text><input placeholder="请输入四位短信验证码" type="text" class="mode"></input><button class="getmode" disabled="{{button}}" bindtap="{{d}}">{{c}}</button></view></form>

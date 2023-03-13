@@ -1,0 +1,33 @@
+
+.tel{
+    border: solid 1rpx rgb(213, 211, 211);
+    height: 100rpx;
+    width: 90%;
+    border-radius: 25rpx;
+    background: rgb(213, 211, 211);
+    margin-left: 20rpx;
+    margin-top: 20rpx;
+}
+.mode{
+    border: solid 1rpx rgb(213, 211, 211);
+    height: 100rpx;
+    width: 60%;
+    border-radius: 25rpx;
+    background: rgb(213, 211, 211);
+    margin-left: 20rpx;
+    margin-top: 20rpx;
+}
+.phone, .fix{
+    margin-top: 50rpx;
+}
+text{
+    padding-left: 100rpx;
+    margin-bottom: 50rpx;
+}
+.getmode{
+    width: 30%;
+    font-size: smaller;
+    margin-left: 65%;
+    margin-top: -90rpx;
+    background: rgb(150, 221, 182);
+}

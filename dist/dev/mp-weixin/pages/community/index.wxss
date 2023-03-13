@@ -1,0 +1,68 @@
+
+.main{
+    width: 100%;
+}
+.searching{
+    text-align: center;
+    width: 600rpx;
+    height: 60rpx;
+    background-color: rgb(221, 221, 220);
+    margin-top: 5rpx;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25rpx;
+    text-align: center;
+}
+.searchingicon{
+    width: 50rpx;
+    height: 50rpx;
+}
+.picture{
+    width: 200rpx;
+    height: 200rpx;
+    display: flex;
+    margin-top: 10rpx;
+}
+.moment{
+    width: 78%;
+    margin-top: 80rpx;
+    margin-left: 50rpx;
+    margin-right: 60rpx;
+    background-color: rgb(238, 240, 240);
+    border-radius: 50rpx;
+    padding-left: 50rpx;
+    padding-bottom: 30rpx;
+    padding-top: 15rpx;
+}
+.editingimg{
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 50%;
+    border: solid 1rpx #ffc64b;
+}
+.editing{
+    position: fixed;
+    bottom: 50rpx;
+    right: 50rpx;
+}
+p{
+    color: rgb(80, 79, 79);
+    width:60%
+}
+.ip{
+    color: blue;
+    font-size: x-small;
+    margin-top: 10rpx;
+}
+.del{
+    width: 100%;
+    margin-left: 85%;
+    color: blue;
+}
+.delicon{
+    width: 50rpx;
+    height: 50rpx;
+}
+.momentid{
+    display: none;
+}

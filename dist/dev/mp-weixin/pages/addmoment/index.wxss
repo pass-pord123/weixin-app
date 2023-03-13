@@ -1,0 +1,47 @@
+
+.ok{
+    width: 250rpx;
+    height: 100rpx;
+    text-align: center;
+    padding-bottom: 50rpx;
+    margin-top: 100rpx;
+}
+textarea{
+    /* border:solid 2rpx rgb(100, 98, 98); */
+    margin-top: 10rpx;
+}
+.content{
+    padding-left: 60rpx;
+    width: 60%;
+}
+image{
+    width: 300rpx;
+    height: 300rpx;
+    /* border: solid 1rpx; */
+}
+.img{
+    width: 100%;
+    text-align: center;
+}
+.add{
+   width: 100%;
+   text-align: center;
+   margin-top: 20rpx;
+}
+.location{
+   width: 100%;
+   text-align: center;
+   margin-top: 20rpx;
+}
+.date{
+  font-size: x-small;
+  color: blueviolet;
+}
+.camaraicon, .locationicon{
+    width: 50rpx;
+    height: 50rpx;
+    margin-top: 5rpx;
+}
+.loc{
+    color:blueviolet
+}

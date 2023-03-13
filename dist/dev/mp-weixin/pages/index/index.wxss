@@ -1,0 +1,61 @@
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  /* background: #d8d8f0; */
+}
+.logo {
+  height: 320rpx;
+  width: 230rpx;
+  border-radius: 25rpx;
+}
+.logo1_containner {
+  position: absolute;
+  top: 100rpx;
+  left: 10%;
+  width: 230rpx;
+  height: 400rpx;
+  text-align: center;
+}
+.logo2_containner {
+  position: absolute;
+  top: 100rpx;
+  right: 15%;
+  width: 230rpx;
+  height: 400rpx;
+  text-align: center;
+}
+.logo3_containner {
+  position: absolute;
+  top: 560rpx;
+  left: 10%;
+  width: 230rpx;
+  height: 400rpx;
+  text-align: center;
+}
+.logo4_containner {
+  position: absolute;
+  top: 560rpx;
+  right: 15%;
+  width: 230rpx;
+  height: 400rpx;
+  text-align: center;
+}
+text {
+  height: 50rpx;
+  color: #8f8f94;
+}
+.text-area {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  font-size: 36rpx;
+  color: #8f8f94;
+}

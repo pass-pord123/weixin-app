@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "日记",
+  "usingComponents": {
+    "uni-icons": "../../components/uni-icons/uni-icons"
+  }
+}
